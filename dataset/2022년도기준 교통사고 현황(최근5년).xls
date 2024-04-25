@@ -1,0 +1,341 @@
+
+
+
+
+
+
+
+
+	
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+table {width:100%;border-top:1px solid #737678;}
+td {border:1px solid #cccccc;text-align:center;vertical-align:middle;}
+</style>
+
+<h2>2022년도기준 교통사고 현황(최근5년)</h2>
+<table>
+	<thead>
+		
+		<tr bgcolor="#ebf2f7">
+			<th>구분</th>
+			<th>유형</th>
+			<th>2018년</th>
+			<th>2019년</th>
+			<th>2020년</th>
+			<th>2021년</th>
+			<th class="last">2022년</th> 
+		</tr>
+		
+	</thead>
+	<tbody>
+		
+		<tr>
+			
+				<td rowspan="3">전체사고</td>
+			
+			<td>사고건수</td>
+			<td>217,148</td>
+			<td>229,600</td>
+			<td>209,654</td>
+			<td>203,130</td>
+			<td class="last">196,836</td> 
+		</tr>
+		
+		<tr>
+			
+			<td>사망자</td>
+			<td>3,781</td>
+			<td>3,349</td>
+			<td>3,081</td>
+			<td>2,916</td>
+			<td class="last">2,735</td> 
+		</tr>
+		
+		<tr>
+			
+			<td>부상자</td>
+			<td>323,037</td>
+			<td>341,712</td>
+			<td>306,194</td>
+			<td>291,608</td>
+			<td class="last">281,803</td> 
+		</tr>
+		
+		<tr>
+			
+				<td rowspan="3">사망사고</td>
+			
+			<td>사고건수</td>
+			<td>3,657</td>
+			<td>3,233</td>
+			<td>2,983</td>
+			<td>2,816</td>
+			<td class="last">2,658</td> 
+		</tr>
+		
+		<tr>
+			
+			<td>사망자</td>
+			<td>3,781</td>
+			<td>3,349</td>
+			<td>3,081</td>
+			<td>2,916</td>
+			<td class="last">2,735</td> 
+		</tr>
+		
+		<tr>
+			
+			<td>부상자</td>
+			<td>1,915</td>
+			<td>1,772</td>
+			<td>1,561</td>
+			<td>1,325</td>
+			<td class="last">1,154</td> 
+		</tr>
+		
+		<tr>
+			
+				<td rowspan="3">어린이사고</td>
+			
+			<td>사고건수</td>
+			<td>10,009</td>
+			<td>11,054</td>
+			<td>8,400</td>
+			<td>8,889</td>
+			<td class="last">9,163</td> 
+		</tr>
+		
+		<tr>
+			
+			<td>사망자</td>
+			<td>34</td>
+			<td>28</td>
+			<td>24</td>
+			<td>23</td>
+			<td class="last">18</td> 
+		</tr>
+		
+		<tr>
+			
+			<td>부상자</td>
+			<td>12,543</td>
+			<td>14,115</td>
+			<td>10,500</td>
+			<td>10,978</td>
+			<td class="last">11,389</td> 
+		</tr>
+		
+		<tr>
+			
+				<td rowspan="3">노인사고</td>
+			
+			<td>사고건수</td>
+			<td>38,647</td>
+			<td>40,645</td>
+			<td>35,312</td>
+			<td>34,907</td>
+			<td class="last">35,914</td> 
+		</tr>
+		
+		<tr>
+			
+			<td>사망자</td>
+			<td>1,682</td>
+			<td>1,523</td>
+			<td>1,342</td>
+			<td>1,295</td>
+			<td class="last">1,258</td> 
+		</tr>
+		
+		<tr>
+			
+			<td>부상자</td>
+			<td>41,833</td>
+			<td>44,390</td>
+			<td>38,147</td>
+			<td>37,894</td>
+			<td class="last">39,192</td> 
+		</tr>
+		
+		<tr>
+			
+				<td rowspan="3">보행자사고</td>
+			
+			<td>사고건수</td>
+			<td>45,921</td>
+			<td>46,682</td>
+			<td>36,601</td>
+			<td>35,665</td>
+			<td class="last">37,611</td> 
+		</tr>
+		
+		<tr>
+			
+			<td>사망자</td>
+			<td>1,487</td>
+			<td>1,302</td>
+			<td>1,093</td>
+			<td>1,018</td>
+			<td class="last">933</td> 
+		</tr>
+		
+		<tr>
+			
+			<td>부상자</td>
+			<td>46,400</td>
+			<td>47,200</td>
+			<td>36,939</td>
+			<td>36,001</td>
+			<td class="last">38,088</td> 
+		</tr>
+		
+		<tr>
+			
+				<td rowspan="3">자전거사고</td>
+			
+			<td>사고건수</td>
+			<td>4,771</td>
+			<td>5,633</td>
+			<td>5,667</td>
+			<td>5,509</td>
+			<td class="last">5,393</td> 
+		</tr>
+		
+		<tr>
+			
+			<td>사망자</td>
+			<td>91</td>
+			<td>79</td>
+			<td>83</td>
+			<td>70</td>
+			<td class="last">91</td> 
+		</tr>
+		
+		<tr>
+			
+			<td>부상자</td>
+			<td>5,041</td>
+			<td>6,020</td>
+			<td>6,150</td>
+			<td>5,999</td>
+			<td class="last">5,856</td> 
+		</tr>
+		
+		<tr>
+			
+				<td rowspan="3">이륜차사고</td>
+			
+			<td>사고건수</td>
+			<td>17,611</td>
+			<td>20,898</td>
+			<td>21,258</td>
+			<td>20,598</td>
+			<td class="last">18,295</td> 
+		</tr>
+		
+		<tr>
+			
+			<td>사망자</td>
+			<td>537</td>
+			<td>498</td>
+			<td>525</td>
+			<td>459</td>
+			<td class="last">484</td> 
+		</tr>
+		
+		<tr>
+			
+			<td>부상자</td>
+			<td>21,621</td>
+			<td>26,514</td>
+			<td>27,348</td>
+			<td>26,617</td>
+			<td class="last">23,469</td> 
+		</tr>
+		
+		<tr>
+			
+				<td rowspan="3">사업용자동차사고</td>
+			
+			<td>사고건수</td>
+			<td>45,122</td>
+			<td>47,179</td>
+			<td>40,108</td>
+			<td>37,801</td>
+			<td class="last">37,788</td> 
+		</tr>
+		
+		<tr>
+			
+			<td>사망자</td>
+			<td>748</td>
+			<td>633</td>
+			<td>575</td>
+			<td>569</td>
+			<td class="last">539</td> 
+		</tr>
+		
+		<tr>
+			
+			<td>부상자</td>
+			<td>69,583</td>
+			<td>72,906</td>
+			<td>59,956</td>
+			<td>55,573</td>
+			<td class="last">55,399</td> 
+		</tr>
+		
+		<tr>
+			
+				<td rowspan="3">음주운전사고</td>
+			
+			<td>사고건수</td>
+			<td>19,381</td>
+			<td>15,708</td>
+			<td>17,247</td>
+			<td>14,894</td>
+			<td class="last">15,059</td> 
+		</tr>
+		
+		<tr>
+			
+			<td>사망자</td>
+			<td>346</td>
+			<td>295</td>
+			<td>287</td>
+			<td>206</td>
+			<td class="last">214</td> 
+		</tr>
+		
+		<tr>
+			
+			<td>부상자</td>
+			<td>32,952</td>
+			<td>25,961</td>
+			<td>28,063</td>
+			<td>23,653</td>
+			<td class="last">24,261</td> 
+		</tr>
+		
+	</tbody>
+</table> 
+
+</body>
+</html>
